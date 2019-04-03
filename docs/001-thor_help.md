@@ -15,7 +15,11 @@ Commands:
 ```
 
 ## install your cli.rb
+```shell
 thor install ./src/cli.rb
+```
 
 ## check:
+```shell
 thor list
+```
