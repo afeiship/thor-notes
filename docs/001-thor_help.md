@@ -1,5 +1,5 @@
 # thor help
-
+> Get start thor from here.
 
 ```shell
 $ thor -h
