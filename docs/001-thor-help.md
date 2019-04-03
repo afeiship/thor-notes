@@ -19,7 +19,7 @@ Commands:
 thor install ./src/cli.rb
 ```
 
-## check:
+## check
 ```shell
 thor list
 ```
