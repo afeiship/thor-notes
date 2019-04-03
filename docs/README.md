@@ -7,5 +7,5 @@ Basic install steps.
 
 ## Javascript
   - [Home](/)
-  - [get-started](/javascript/001-get-started.md)
-  - [globby](/javascript/002-globby.md)
+  - [thor-help](/001-thor-help.md)
+  - [hello](/002-hello.md)

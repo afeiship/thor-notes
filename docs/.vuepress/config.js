@@ -17,7 +17,7 @@ module.exports = {
       {
         title: 'Get started',
         collapsable: false,
-        children: ['/001-thor_help.md', '/002-hello.md']
+        children: ['/001-thor-help.md', '/002-hello.md']
       }
     ]
   }
