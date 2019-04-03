@@ -1,3 +1,7 @@
+# hello
+
+## code
+```rb
 require "thor"
 
 class MyCLI < Thor
@@ -10,3 +14,9 @@ class MyCLI < Thor
 end
 
 MyCLI.start(ARGV)
+```
+
+## usage
+```shell
+ruby src/cli.rb hello afei --from=cmd
+```

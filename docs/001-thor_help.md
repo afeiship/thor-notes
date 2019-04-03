@@ -1,6 +1,9 @@
-# install to system:
-thor -h
-```conf
+# thor help
+
+
+```shell
+$ thor -h
+
 Commands:
   thor help [COMMAND]  # Describe available commands or one specific command
   thor install NAME    # Install an optionally named Thor file into your system commands
